@@ -1,2 +1,3 @@
-default one level up:
-choose [OTS](&template=ots.md) or ASYNC template
+** PLEASE CHOOSE A PR TEMPLATE** by appending one of the following query parameters:
+- for non-trivial tickets that warrant an over-the-shoulder review: &template=ots.md
+- for simple changes where interrupting another's work for an OTS is overkill: &template=async.md
