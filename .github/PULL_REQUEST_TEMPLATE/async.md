@@ -9,18 +9,18 @@ That means there should usually be something in here*
 - [ ] If needed, there is a Testing Notes section in the Jira issue at the bottom of the Description section. Technical Stories/Improvements should always include these.
 - [ ] There is no yellow warning code in IntelliJ in the new/modified code (eg `PropertyModel`, `@Nullable`/`@NotNull`, ...).
 
-**Reviewers** (review guidelines in  can be found in [Confluence](https://unimarket.atlassian.net/wiki/spaces/DEV/pages/307429377/Code+Reviews)
+**Reviewers** (review guidelines can be found in [Confluence](https://unimarket.atlassian.net/wiki/spaces/DEV/pages/307429377/Code+Reviews))
 
 **First reviewer** *<your_name_here>* has verified that:
 - [ ] The changes are of sufficiently high quality that I would be willing to maintain them
 - [ ] All criteria have been implemented
 - [ ] Tests exist for any important changes
 - [ ] No new security vulnerabilities have been introduced
-- [ ] The PR points to the right version
+- [ ] The PR target branch matches JIRA fix version (and so do any migrate.groovy changes)
 
 **Second reviewer** *<your_name_here>* has verified that: 
 - [ ] The changes are of sufficiently high quality that I would be willing to maintain them
 - [ ] All criteria have been implemented
 - [ ] Tests exist for any important changes
 - [ ] No new security vulnerabilities have been introduced
-- [ ] The PR points to the right version
+- [ ] The PR target branch matches JIRA fix version (and so do any migrate.groovy changes)
