@@ -3,7 +3,7 @@ We have been using one template to cover what are effectively 3 different review
 - Two regular code reviews
 - Nearly rubber-stamp approvals for merging release branches
 
-All of these have their place, but none are suitable for all PRs:
+All of these have their place, but none are suitable for every task:
 - OTS is more in-depth and thorough, but is time consuming and requires interrupting another person.
 - Regular code reviews are asynchronous and thus less disruptive to other team members, but provide less assurance.
 - Release branch process is basically 'could someone click the approve button?'
