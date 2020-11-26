@@ -1,5 +1,3 @@
-# For testing a workflow with multiple PR templates
-
 We have been using one template to cover what are effectively 3 different review processes:
 - Over-the-shoulder review + regular code review
 - Two regular code reviews
