@@ -14,10 +14,9 @@ Github supports having multiple PR templates, but offers no UI for choosing one 
 
 To try it out go ahead and create a PR:
 - click the pencil icon in the upper right corner of this readme
-- make a change
-- choose to create a new branch in the bottom
-- choose a template and paste appropriate query parameter string in the address bar
-- the PR description text area should now be populated with the contents of the template.
+- make a change, click 'propose' to create a new branch and a PR
+- in the 'create PR' screen click the 'preview' tab, choose a template and paste appropriate query parameter string in the address bar; click enter
+- the PR description text area should now be populated with the contents of the chosen template.
 - to try another one, just click back and choose another template.
 
 Obviously it's not frictionless. Github also tries real hard not to forget what you entered in the text area, which might at times get in the way. Please voice your opinions - it's our process, it should work for us.
