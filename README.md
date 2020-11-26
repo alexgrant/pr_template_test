@@ -6,7 +6,7 @@ We have been using one template to cover what are effectively 3 different review
 All of these have their place, but none are suitable for all PRs:
 - OTS is more in-depth and thorough, but is time consuming and requires interrupting another person.
 - Regular code reviews are asynchronous and thus less disruptive to other team members, but provide less assurance.
-- Release branch process is basically 'could someone click approve?' - which is, in fact, sufficient in most cases.
+- Release branch process is basically 'could someone click the approve button?'
 
 The trouble is that it's hard to acommodate all review processes in one template. Notably, for the 'two regular reviews' process to continue to work with low friction both reviewers must have the same review scope - else it will inevitably lead to confusion about who needs to cover what. It's not a problem with OTS as it is synchronous. When a colleague asks for an OTSR, it takes precedence over most tasks and thus the reviewer roles are decided quickly and publicly.
 
