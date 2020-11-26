@@ -17,7 +17,7 @@ That means there should usually be something in here*
 - [ ] All criteria have been implemented
 - [ ] Tests exist for any important changes
 - [ ] No new security vulnerabilities have been introduced
-- [ ] The PR points to the right version 
+- [ ] The PR target branch matches JIRA fix version (and so do any migrate.groovy changes)
 
 **Second reviewer** *<your_name_here>* has verified that: 
 - [ ] The changes are of sufficiently high quality that I would be willing to maintain them
