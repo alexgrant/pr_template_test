@@ -10,7 +10,7 @@ That means there should usually be something in here*
 - [ ] There is no yellow warning code in IntelliJ in the new/modified code (eg `PropertyModel`, `@Nullable`/`@NotNull`, ...).
 - [ ] Over-the-shoulder review is complete and has demonstrated all criteria have been implemented.
 
-**Reviewers** (review guidelines in  can be found in [Confluence](https://unimarket.atlassian.net/wiki/spaces/DEV/pages/307429377/Code+Reviews)
+**Reviewers** (review guidelines in  can be found in [Confluence](https://unimarket.atlassian.net/wiki/spaces/DEV/pages/307429377/Code+Reviews))
 
 **OTS reviewer** *<your_name_here>* has verified that:
 - [ ] The changes are of sufficiently high quality that I would be willing to maintain them
