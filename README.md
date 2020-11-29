@@ -18,7 +18,8 @@ Alex pointed out that this feels wrong - two AC reviewers for less complex tasks
 
 
 To try it out go ahead and create a PR:
-- click the pencil icon in the upper right corner of this readme
+- open the [readme](https://github.com/seminolas/pr_template_test/blob/main/README.md) file
+- click the pencil icon in the upper right corner
 - make a change, click 'propose' to create a new branch and a PR
 - in the 'create PR' screen click the 'preview' tab, choose a template and paste appropriate query parameter string in the address bar; click enter
 - the PR description text area should now be populated with the contents of the chosen template.
